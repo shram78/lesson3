@@ -1,0 +1,7 @@
+D:\GeekBrains\lesson3\Metods\EnterNum\bin\Debug\EnterNum.exe.config
+D:\GeekBrains\lesson3\Metods\EnterNum\bin\Debug\EnterNum.exe
+D:\GeekBrains\lesson3\Metods\EnterNum\bin\Debug\EnterNum.pdb
+D:\GeekBrains\lesson3\Metods\EnterNum\obj\Debug\EnterNum.csproj.CoreCompileInputs.cache
+D:\GeekBrains\lesson3\Metods\EnterNum\obj\Debug\EnterNum.exe
+D:\GeekBrains\lesson3\Metods\EnterNum\obj\Debug\EnterNum.pdb
+D:\GeekBrains\lesson3\Metods\EnterNum\obj\Debug\EnterNum.csprojAssemblyReference.cache

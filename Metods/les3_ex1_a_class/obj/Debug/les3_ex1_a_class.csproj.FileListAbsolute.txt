@@ -1,0 +1,7 @@
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\bin\Debug\les3_ex1_a_class.exe.config
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\bin\Debug\les3_ex1_a_class.exe
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\bin\Debug\les3_ex1_a_class.pdb
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\obj\Debug\les3_ex1_a_class.csprojAssemblyReference.cache
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\obj\Debug\les3_ex1_a_class.csproj.CoreCompileInputs.cache
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\obj\Debug\les3_ex1_a_class.exe
+D:\GeekBrains\lesson3\Metods\les3_ex1_a_class\obj\Debug\les3_ex1_a_class.pdb

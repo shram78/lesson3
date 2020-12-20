@@ -1,0 +1,7 @@
+D:\GeekBrains\lesson3\Metods\Metods\bin\Debug\Metods.exe.config
+D:\GeekBrains\lesson3\Metods\Metods\bin\Debug\Metods.exe
+D:\GeekBrains\lesson3\Metods\Metods\bin\Debug\Metods.pdb
+D:\GeekBrains\lesson3\Metods\Metods\obj\Debug\Metods.csprojAssemblyReference.cache
+D:\GeekBrains\lesson3\Metods\Metods\obj\Debug\Metods.csproj.CoreCompileInputs.cache
+D:\GeekBrains\lesson3\Metods\Metods\obj\Debug\Metods.exe
+D:\GeekBrains\lesson3\Metods\Metods\obj\Debug\Metods.pdb

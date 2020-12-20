@@ -1,0 +1,7 @@
+D:\GeekBrains\lesson3\Metods\test Par\bin\Debug\test Par.exe.config
+D:\GeekBrains\lesson3\Metods\test Par\bin\Debug\test Par.exe
+D:\GeekBrains\lesson3\Metods\test Par\bin\Debug\test Par.pdb
+D:\GeekBrains\lesson3\Metods\test Par\obj\Debug\test Par.csprojAssemblyReference.cache
+D:\GeekBrains\lesson3\Metods\test Par\obj\Debug\test Par.csproj.CoreCompileInputs.cache
+D:\GeekBrains\lesson3\Metods\test Par\obj\Debug\test Par.exe
+D:\GeekBrains\lesson3\Metods\test Par\obj\Debug\test Par.pdb
